@@ -1,5 +1,5 @@
 {
-    "name": "cache-proxy",
+    "name": "cache-node-proxy",
     "version": "1.0.0",
     "description": "Cors proxy server with cache support",
     "main": "server.js",
